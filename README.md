@@ -20,3 +20,27 @@ Todas as listas foram obtidas nas aulas de Introdução à Programção - Univer
   Para receber dados:
   
   - `scanf("%d", &variável);`
+
+## Lista 1B ❓:
+
+  ### - Comandos de decisão If:
+  
+  Para decisão usando if:
+  
+  - `if(condição){
+   
+     }else{
+
+     }`
+
+  Para decisão com switch:
+  
+  - `switch(expressão constante):
+      case 1:
+        instruções;
+          break;
+      case 2:
+        instruções;
+          break;
+      default:
+        instruções;
