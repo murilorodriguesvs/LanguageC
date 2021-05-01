@@ -27,20 +27,11 @@ Todas as listas foram obtidas nas aulas de Introdução à Programção - Univer
   
   Para decisão usando if:
   
-  - `if(condição){
-   
-     `}else{
-
-     `}`
+  - ```
+    if(condição){
+     }else{ }
+    ```
 
   Para decisão com switch:
   
-  - `switch(expressão constante):
-     ` case 1:
-     `   instruções;
-     `     break;
-     ` case 2:
-     `   instruções;
-     `     break;
-     ` default:
-     `   instruções;
+  - `switch(expressão constante): case 1: instruções; break; case 2: instruções; break; default: instruções;`
