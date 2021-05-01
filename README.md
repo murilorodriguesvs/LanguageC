@@ -43,8 +43,8 @@ Todas as listas foram obtidas nas aulas de Introdução à Programção - Univer
         instruções; 
           break; 
       case 2: 
-      instruções; 
-        break; 
+        instruções; 
+          break; 
       default: 
         instruções;
    ```
