@@ -29,18 +29,18 @@ Todas as listas foram obtidas nas aulas de Introdução à Programção - Univer
   
   - `if(condição){
    
-     }else{
+     `}else{
 
-     }`
+     `}`
 
   Para decisão com switch:
   
   - `switch(expressão constante):
-      case 1:
-        instruções;
-          break;
-      case 2:
-        instruções;
-          break;
-      default:
-        instruções;
+     ` case 1:
+     `   instruções;
+     `     break;
+     ` case 2:
+     `   instruções;
+     `     break;
+     ` default:
+     `   instruções;
